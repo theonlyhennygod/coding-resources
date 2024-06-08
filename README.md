@@ -70,6 +70,11 @@ Welcome to our curated list of free coding resources. Whether you're a beginner 
 
 ## Contributing
 
-If you have any free resources to add to this list, please feel free to create a pull request or open an issue.
+We welcome contributions from everyone! If you have any free resources to add to this list, please read our [Contributing Guidelines](CONTRIBUTING.md) and create a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 Happy Coding!
