@@ -64,12 +64,12 @@ section ul li {
     margin-bottom: 0.5rem;
 }
 
+
 footer {
     text-align: center;
     padding: 1rem 0;
     background-color: #333;
     color: #fff;
-    position: fixed;
     width: 100%;
     bottom: 0;
 }
